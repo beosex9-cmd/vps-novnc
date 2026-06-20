@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://instead-think-fabrics-commerce.trycloudflare.com/vnc.html
+URL       : https://hawaii-develops-yale-communication.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-19 20:29:44
+Created   : 2026-06-20 10:22:58
 =======================================================
