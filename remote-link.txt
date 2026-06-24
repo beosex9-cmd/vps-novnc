@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://maui-flyer-selective-onion.trycloudflare.com/vnc.html
+URL       : https://assured-pill-lawyer-hobby.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-23 21:21:20
+Created   : 2026-06-24 10:39:29
 =======================================================
