@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://procedures-owns-elvis-centered.trycloudflare.com/vnc.html
+URL       : https://yourself-insured-agreed-tattoo.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-02 20:11:41
+Created   : 2026-07-03 10:18:19
 =======================================================
