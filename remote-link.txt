@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gender-charity-confidence-terminals.trycloudflare.com/vnc.html
+URL       : https://beverages-travelling-typically-fig.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-14 07:14:54
+Created   : 2026-07-14 11:30:43
 =======================================================
