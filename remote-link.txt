@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://boundaries-trails-universe-kitchen.trycloudflare.com/vnc.html
+URL       : https://carlos-receiving-rev-equipped.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-01 11:22:55
+Created   : 2026-08-01 16:06:35
 =======================================================
