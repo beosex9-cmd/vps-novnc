@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://filing-sees-fewer-punk.trycloudflare.com/vnc.html
+URL       : https://increase-faced-dialog-noon.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-04 16:58:20
+Created   : 2026-08-04 21:18:00
 =======================================================
