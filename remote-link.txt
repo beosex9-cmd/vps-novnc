@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://trout-forest-scholarships-arrow.trycloudflare.com/vnc.html
+URL       : https://asian-sugar-libs-often.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 20:48:18
+Created   : 2026-08-08 01:55:36
 =======================================================
