@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wars-strict-fusion-nirvana.trycloudflare.com/vnc.html
+URL       : https://treatment-yearly-turn-profiles.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-08 10:40:20
+Created   : 2026-08-08 15:36:19
 =======================================================
