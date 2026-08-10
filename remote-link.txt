@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bacteria-smoke-reception-ham.trycloudflare.com/vnc.html
+URL       : https://approved-milwaukee-easily-bridal.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-10 06:15:27
+Created   : 2026-08-10 11:14:26
 =======================================================
