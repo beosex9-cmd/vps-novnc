@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://updated-strips-contest-fever.trycloudflare.com/vnc.html
+URL       : https://exploration-pipe-definitions-endorsed.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 06:19:52
+Created   : 2026-08-12 11:04:51
 =======================================================
