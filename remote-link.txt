@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cottage-senator-constitutional-email.trycloudflare.com/vnc.html
+URL       : https://lite-sake-explicit-forward.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-15 10:28:59
+Created   : 2026-08-15 15:27:24
 =======================================================
