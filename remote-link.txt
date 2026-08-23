@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://accurately-widescreen-sought-keyboards.trycloudflare.com/vnc.html
+URL       : https://consensus-imperial-advise-located.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-23 15:28:57
+Created   : 2026-08-23 20:30:11
 =======================================================
