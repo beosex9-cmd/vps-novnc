@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://diagnosis-permitted-enormous-pct.trycloudflare.com/vnc.html
+URL       : https://mapping-travis-visual-eds.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-04 18:16:05
+Created   : 2026-09-04 22:17:32
 =======================================================
