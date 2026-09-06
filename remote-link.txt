@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wan-ion-headers-diamond.trycloudflare.com/vnc.html
+URL       : https://grade-dont-paul-perceived.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-05 22:01:17
+Created   : 2026-09-06 03:50:04
 =======================================================
