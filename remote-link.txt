@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://consequences-into-mhz-latinas.trycloudflare.com/vnc.html
+URL       : https://welding-gerald-freeware-outline.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-11 03:58:20
+Created   : 2026-09-11 09:27:51
 =======================================================
