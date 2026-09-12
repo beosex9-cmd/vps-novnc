@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://jane-changes-ideas-wires.trycloudflare.com/vnc.html
+URL       : https://emotional-fathers-notification-artists.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-12 09:09:32
+Created   : 2026-09-12 13:29:52
 =======================================================
