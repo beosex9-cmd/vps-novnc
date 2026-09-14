@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://whole-meals-explicit-story.trycloudflare.com/vnc.html
+URL       : https://glory-membrane-stanford-dear.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-14 10:27:23
+Created   : 2026-09-14 19:48:22
 =======================================================
