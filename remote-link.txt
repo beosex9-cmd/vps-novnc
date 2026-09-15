@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://violin-family-simultaneously-casting.trycloudflare.com/vnc.html
+URL       : https://cdna-marketing-jury-deleted.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-15 09:53:47
+Created   : 2026-09-15 14:47:42
 =======================================================
