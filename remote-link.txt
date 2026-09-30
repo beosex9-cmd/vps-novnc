@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://every-also-cst-bills.trycloudflare.com/vnc.html
+URL       : https://sample-lil-labs-por.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-30 11:02:30
+Created   : 2026-09-30 19:56:50
 =======================================================
