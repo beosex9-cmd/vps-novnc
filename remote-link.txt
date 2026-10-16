@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://washington-earlier-stylus-cho.trycloudflare.com/vnc.html
+URL       : https://consultation-metadata-implied-scanned.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-16 14:43:53
+Created   : 2026-10-16 18:44:19
 =======================================================
