@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://composer-paul-scratch-marilyn.trycloudflare.com/vnc.html
+URL       : https://boards-deer-todd-updating.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-16 22:44:31
+Created   : 2026-10-17 03:49:42
 =======================================================
