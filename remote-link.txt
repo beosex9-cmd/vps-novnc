@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://educators-photograph-rural-requests.trycloudflare.com/vnc.html
+URL       : https://changes-hired-healthcare-sas.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-20 09:54:58
+Created   : 2026-10-20 14:53:19
 =======================================================
