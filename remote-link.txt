@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ira-effort-manufacturing-reasons.trycloudflare.com/vnc.html
+URL       : https://forge-digit-essentially-technology.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-27 23:42:56
+Created   : 2026-10-28 04:56:12
 =======================================================
